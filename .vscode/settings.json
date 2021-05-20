@@ -1,8 +1,0 @@
-{
-  "eslint.format.enable": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "eslint.validate": ["javascript"],
-  "typescript.format.insertSpaceAfterTypeAssertion": false
-}
